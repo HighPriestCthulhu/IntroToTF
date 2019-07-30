@@ -1,0 +1,3 @@
+Problems with label coding for images and videos, and well anything really if you're using nubered labels to reference categories
+-Higher categories implies higher value in most functions, which is bad for code cause it creates a hell of a bias for no reason
+
